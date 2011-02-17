@@ -5,3 +5,6 @@ See the app delegate's applicationDidFinishLaunching for example usage.
 Don't forget to #import "NSString+XMLEncoding.h"
 
 Feel free to use these in your projects.
+
+Almost wholly yanked from Mike and Tod Cunningham's answers here: 
+http://stackoverflow.com/questions/803676/encode-nsstring-for-xml-html
