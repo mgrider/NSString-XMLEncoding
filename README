@@ -1,0 +1,7 @@
+Example project for NSString+XMLEncoding
+
+See the app delegate's applicationDidFinishLaunching for example usage.
+
+Don't forget to #import "NSString+XMLEncoding.h"
+
+Feel free to use these in your projects.

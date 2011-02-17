@@ -1,0 +1,153 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* NSString_XMLEncodingAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 641}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 367}";
+		};
+	};
+	1D3623250D0F684500981E51 /* NSString_XMLEncodingAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1001}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1769}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* NSString-XMLEncoding */ = {
+		activeExec = 0;
+		executables = (
+			854B942F130DC9D100861BD7 /* NSString-XMLEncoding */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 854B942F130DC9D100861BD7 /* NSString-XMLEncoding */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* NSString-XMLEncoding */;
+		codeSenseManager = 854B943A130DC9F300861BD7 /* Code sense */;
+		executables = (
+			854B942F130DC9D100861BD7 /* NSString-XMLEncoding */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					773.20849609375,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 319670737;
+			PBXWorkspaceStateSaveDate = 319670737;
+		};
+		perUserProjectItems = {
+			854B9433130DC9F200861BD7 /* PBXTextBookmark */ = 854B9433130DC9F200861BD7 /* PBXTextBookmark */;
+			854B9434130DC9F200861BD7 /* PBXTextBookmark */ = 854B9434130DC9F200861BD7 /* PBXTextBookmark */;
+			854B9435130DC9F200861BD7 /* PBXTextBookmark */ = 854B9435130DC9F200861BD7 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 854B9439130DC9F300861BD7 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	854B942F130DC9D100861BD7 /* NSString-XMLEncoding */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "NSString-XMLEncoding";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	854B9433130DC9F200861BD7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* NSString_XMLEncodingAppDelegate.m */;
+		name = "NSString_XMLEncodingAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1769;
+		vrLoc = 0;
+	};
+	854B9434130DC9F200861BD7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* NSString_XMLEncodingAppDelegate.h */;
+		name = "NSString_XMLEncodingAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 367;
+		vrLoc = 0;
+	};
+	854B9435130DC9F200861BD7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* NSString_XMLEncodingAppDelegate.h */;
+		name = "NSString_XMLEncodingAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 367;
+		vrLoc = 0;
+	};
+	854B9439130DC9F300861BD7 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	854B943A130DC9F300861BD7 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}
