@@ -19,17 +19,22 @@
 #pragma mark Application lifecycle
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {    
-    
-    // Override point for customization after application launch.
-    
-    [self.window makeKeyAndVisible];
 
+
+
+	// examples here.
 	NSString *html = @"<p>This \"paragraph\" contains quoted & 'single' quoted stuff.</p>";
-	
 	NSLog(@"Original String: %@", html);
-	
-	NSLog(@"Escaped String: %@", [html xmlSimpleEscapeString]);
 
+	NSString *escapedHTML = [html xmlSimpleEscapeString];
+	NSLog(@"Escaped String: %@", escapedHTML);
+
+	NSString *unescapedHTML = [escapedHTML xmlSimpleUnescapeString];
+	NSLog(@"Unescaped String: %@", unescapedHTML);
+
+
+
+    [self.window makeKeyAndVisible];
     return YES;
 }
 
